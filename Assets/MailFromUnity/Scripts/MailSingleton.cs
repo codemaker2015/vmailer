@@ -14,7 +14,7 @@ public class MailSingleton : MonoBehaviour {
     string From = "codemaker2015@gmail.com"; // Enter your gmail id here
     // Enter the app password that you are getting from https://security.google.com/settings/security/apppasswords
     // Generate one with custom name 
-    string Password = "zkejobmdxynkeaiy"; 
+    string Password = ""; 
     bool EnableSSL = true;
     bool UseDefaultCredentials = false;
 
